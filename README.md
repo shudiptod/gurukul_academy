@@ -1,6 +1,6 @@
-# Getting Ready For Music fest 2021!
+# All rounder School of 2021!
 
-This project is deployed on [BD Music Fest 2021](https://sd-gurukul.netlify.app/).
+This project is deployed on [BD Gurukul Academy](https://sd-gurukul.netlify.app/).
 
 ## About the Website
 
