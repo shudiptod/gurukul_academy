@@ -10,7 +10,7 @@ const Services = (props) => {
                 <h2 className="text-center text-xl text-gray-900">Coding and IT Courses</h2>
 
             </div>
-            <div className="container w-12/12 min-h-auto grid lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1  gap-4 my-3 mx-auto">
+            <div className="container w-12/12 min-h-auto grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1  gap-4 my-3 mx-auto">
                 {
                     (programming !== undefined && drama !== undefined && music !== undefined) ?
                         (
