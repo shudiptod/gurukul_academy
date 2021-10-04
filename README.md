@@ -1,10 +1,10 @@
-# All rounder School of 2021!
+# GURUKUL Academy Bangladesh!
 
 This project is deployed on [BD Gurukul Academy](https://sd-gurukul.netlify.app/).
 
 ## About the Website
 
-- Created with **HTML**,**CSS**, **MaterialUI**, **Javascript** and ***ReactJs***
-- The website contains list of Bands and Musicians with the amount of ***fee*** they take to **perform** in a concert.
-- You can **add** bands for your fest and **see total bands** and **total amount of fee** you have to give.
+- Created with **HTML**,**CSS**, **TailWindCSS**, **Javascript** and ***ReactJs***
+- The website is a landing page of a educational institue.
+- You can **see** classes and other plans and about us in the site.
 

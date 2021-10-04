@@ -12,7 +12,8 @@ const Header = () => {
     }
 
     return (
-        <div className=" filter drop-shadow w-10/12 mx-auto flex justify-between items-center bg-white py-4 px-2 mb-8 route-list">
+        <div className=" filter drop-shadow w-10/12 mx-auto flex justify-between items-center bg-white py-4 px-2 mb-8 route-list ">
+
             <h2 className="text-3xl font-sans font-semibold text-purple-900 mx-0 antialiased sm:subpixel-antialiased md:antialiased">GURUKUL</h2>
 
             <div className=" text-black text-sm w-2/4 flex justify-evenly">
