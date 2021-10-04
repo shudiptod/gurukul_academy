@@ -4,10 +4,10 @@ import './Home.css';
 const Home = (props) => {
     const { programming, music, drama } = props.courses;
     return (
-        <div className="container w-screen mx-auto ">
+        <div className="container w-full mx-auto ">
             <h2 className="text-4xl font-semibold font-mono text-gray-900 text-center">Learn Anything or Everything</h2>
             <h4 className="text-lg font-medium font-mono text-gray-800 text-center mt-12">Our Most Popular Courses</h4>
-            <div className="container w-12/12 min-h-auto grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1  gap-4 my-3 mx-auto mb-12">
+            <div className="container w-12/12 min-h-auto grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1  gap-4 lg:gap-0 my-3 mx-auto mb-12">
                 {
                     (programming !== undefined && drama !== undefined && music !== undefined) ?
                         (
