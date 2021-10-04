@@ -14,15 +14,13 @@ function App() {
 
   useEffect(() => {
 
-    // this api is created and hosted by me on my github  
-    // https://shudiptod.github.io/api/fakedb.json
     fetch('./fakedb.json')
       .then(res => res.json())
       .then(data => setCourses(data));
 
   }, []);
   return (
-    <div>
+    <div className="w-full">
       <Router>
         <Header></Header>
         <Switch>
