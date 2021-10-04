@@ -2,7 +2,7 @@ import React from 'react';
 
 const Prices = () => {
     return (
-        <div className="container w-full mx-auto grid grid-cols-3 my-12">
+        <div className="container w-10/12 mx-auto grid grid-cols-3 my-12">
             <div className="container mx-auto lg:w-5/6 md:w-5/6 sm:w-3/6 h-full bg-gray-50 filter drop-shadow shadow-2xl border rounded-xl">
 
                 <div className="container mx-auto w-full px-7 py-2">
