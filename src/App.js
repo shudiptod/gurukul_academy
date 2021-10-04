@@ -12,11 +12,11 @@ function App() {
 
   const [courses, setCourses] = useState({});
 
-  useEffect(async () => {
+  useEffect(() => {
 
     // this api is created and hosted by me on my github  
     // https://shudiptod.github.io/api/fakedb.json
-    await fetch('https://shudiptod.github.io/api/fakedb.json')
+    fetch('./fakedb.json')
       .then(res => res.json())
       .then(data => setCourses(data));
 
@@ -36,7 +36,7 @@ function App() {
             <About></About>
           </Route>
           <Route path="/services">
-            <Services></Services>
+            <Services courses={courses}></Services>
           </Route>
           <Route path="/prices">
             <Prices></Prices>

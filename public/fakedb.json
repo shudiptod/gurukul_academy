@@ -1,10 +1,10 @@
 {
-    "Programming Courses": [
+    "programming": [
         {
             "id": 0,
             "name": "Basic PHP",
             "mentor": "J. Mahbub",
-            "img": "",
+            "img": "http://neodigitech.com/front-end/assets/php/php_web_development.png",
             "rating": 5,
             "duration": "1 month",
             "price": 150
@@ -13,7 +13,7 @@
             "id": 1,
             "name": "Complete MERN Stack",
             "mentor": "Jhanker M",
-            "img": "",
+            "img": "https://res.cloudinary.com/programming-hero-image/image/upload/public/files/1622954504238.png",
             "rating": 3,
             "duration": "4 month",
             "price": 250
@@ -22,7 +22,7 @@
             "id": 2,
             "name": "Learn Python",
             "mentor": "Shudipto Das",
-            "img": "",
+            "img": "https://img-c.udemycdn.com/course/240x135/1035472_23ce_5.jpg",
             "rating": 4,
             "duration": "4 month",
             "price": 450
@@ -31,16 +31,16 @@
             "id": 3,
             "name": "Complete Web Development with Django",
             "mentor": "S. Das",
-            "img": "",
+            "img": "https://img-c.udemycdn.com/course/240x135/822444_a6db.jpg",
             "rating": 5,
             "duration": "4 month",
             "price": 250
         },
         {
             "id": 4,
-            "name": "Basic React",
+            "name": "Basic ReactJs and UI",
             "mentor": "Jhanker Mahbub",
-            "img": "",
+            "img": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png",
             "rating": 3,
             "duration": "3 month",
             "price": 250
@@ -49,7 +49,7 @@
             "id": 5,
             "name": "Basic HTML CSS & JS",
             "mentor": "Mosh",
-            "img": "",
+            "img": "https://img-c.udemycdn.com/course/240x135/437398_46c3_10.jpg",
             "rating": 5,
             "duration": "4 month",
             "price": 850
@@ -58,7 +58,7 @@
             "id": 6,
             "name": "Hack Nasa with HTML",
             "mentor": "Fake Anonymous",
-            "img": "",
+            "img": "https://img-c.udemycdn.com/course/240x135/614772_233b_9.jpg",
             "rating": 1,
             "duration": "1 month",
             "price": 50
@@ -67,36 +67,36 @@
             "id": 7,
             "name": "Complete Java with Spring",
             "mentor": "Anisul Islam",
-            "img": "",
+            "img": "https://img-c.udemycdn.com/course/240x135/65830_9629_3.jpg",
             "rating": 4,
             "duration": "4 month",
             "price": 250
         },
         {
             "id": 8,
-            "name": "Learn ReactJs",
+            "name": "Learn Complete ReactJs",
             "mentor": "Sumit Saha",
-            "img": "",
+            "img": "https://img-c.udemycdn.com/course/240x135/2767978_ae6f_8.jpg",
             "rating": 5,
             "duration": "2 month",
             "price": 550
         }
     ],
-    "Music": [
+    "music": [
         {
             "id": 9,
             "name": "Singing",
             "mentor": "Adelle",
-            "img": "",
+            "img": "https://static.billboard.com/files/media/adele-performance-may-2016-billboard-fea-1500-compressed.jpg",
             "rating": 4,
             "duration": "10 month",
             "price": 950
         },
         {
             "id": 10,
-            "name": "Country Music",
+            "name": "Mastering Country Music",
             "mentor": "John Denver",
-            "img": "",
+            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Very_Best_of_John_Denver_album_cover.jpg/220px-Very_Best_of_John_Denver_album_cover.jpg",
             "rating": 5,
             "duration": "14 month",
             "price": 5050
@@ -105,54 +105,54 @@
             "id": 11,
             "name": "Learn Harmonium",
             "mentor": "Shudipto Das",
-            "img": "",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFrkLlpEOEwdz6UM0pyQL-68kD4oYvWBl4Q&usqp=CAU",
             "rating": 5,
             "duration": "4 month",
             "price": 10450
         },
         {
             "id": 12,
-            "name": "Flute",
+            "name": "Flute Basic 101",
             "mentor": "S. Das",
-            "img": "",
+            "img": "https://process.filepicker.io/APHE465sSbqvbOIStdwTyz/rotate=deg:exif/resize=fit:crop,height:566,width:944/output=quality:80,compress:true,strip:true,format:jpg/cache=expiry:max/https://cdn.filestackcontent.com/D9dJoAZTTLiQwq5lHMk3",
             "rating": 5,
             "duration": "4 month",
             "price": 250
         }
     ],
-    "Drama": [
+    "drama": [
         {
             "id": 13,
             "name": "Basic Theatre",
             "mentor": "Joaquin Pheonix",
-            "img": "",
+            "img": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-03-at-9.44.02-AM.png?w=730&crop=1",
             "rating": 4,
             "duration": "10 month",
             "price": 950
         },
         {
             "id": 14,
-            "name": "Theatre Advance",
+            "name": "Advance Method Acting on Theatre",
             "mentor": "Chanchal Chowdhury",
-            "img": "",
+            "img": "https://img-c.udemycdn.com/course/240x135/3015270_7177_4.jpg",
             "rating": 5,
             "duration": "14 month",
             "price": 5050
         },
         {
             "id": 15,
-            "name": "Critical Roles",
+            "name": "Handling Critical Roles",
             "mentor": "Cristopher Nolan",
-            "img": "",
+            "img": "http://s3.amazonaws.com/quietus_production/images/articles/29187/Christopher_Nolan_1604589057_crop_550x363.jpg",
             "rating": 5,
             "duration": "3 month",
             "price": 10450
         },
         {
             "id": 16,
-            "name": "Classic 90s",
+            "name": "Martin Scorses's Masterclass",
             "mentor": "Martin Scorsese",
-            "img": "",
+            "img": "https://i.ytimg.com/vi/eh9se2xWNw8/maxresdefault.jpg",
             "rating": 5,
             "duration": "6 month",
             "price": 20250
