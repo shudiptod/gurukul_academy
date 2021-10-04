@@ -11,7 +11,7 @@ const Header = () => {
     }
 
     return (
-        <div className="filter drop-shadow lg:w-10/12 mx-auto md:w-full sm:w-full flex sm:flex-col md:flex-col lg:flex-row   lg:justify-between md:justify-evenly sm:justify-center items-center bg-white py-4 lg:px-2 md:px-2 sm:px-2 mb-8">
+        <div className="filter drop-shadow lg:w-10/12 mx-auto md:w-11/12 sm:w-full flex sm:flex-col md:flex-col lg:flex-row   lg:justify-between md:justify-evenly sm:justify-center items-center bg-white py-4 lg:px-2 md:px-2 sm:px-2 mb-8">
 
             <h2 className="lg:text-3xl md:text-lg sm:text-lg 
             font-sans font-semibold text-purple-900 mx-0 

@@ -6,7 +6,7 @@ const Card = (props) => {
     const { name, mentor, img, rating, duration, price } = props.data;
 
     return (
-        <div className="container mx-auto lg:w-5/6 md:w-5/6 sm:w-5/6 h-full bg-gray-50 filter drop-shadow shadow-2xl border rounded-xl">
+        <div className="container mx-auto lg:w-5/6 md:w-6/6 sm:w-5/6 h-full bg-gray-50 filter drop-shadow shadow-2xl border rounded-xl">
             <img src={img} className="mx-auto mt-5 lg:w-5/6 md:w-full sm:w-10/12 h-40 border rounded-xl" alt={name + " photo"} />
             <div className="container mx-auto w-full px-7 py-2">
                 <h3 className="text-lg text-gray-900 font-mono mb-0">{name}</h3>
